@@ -1,3 +1,3 @@
 window.coderender = {
-  tickerText: "ORDER ORDER NOW !! V2",
+  tickerText: "ORDER ORDER NOW !! V3",
 };
